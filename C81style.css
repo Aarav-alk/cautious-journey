@@ -1,0 +1,28 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+background-position: center;
+background-size: cover;
+}
+
+#myCanvas{
+border-width:10px ;
+background-color: rgb(255, 255, 250);
+border-style: ridge;
+}
+
+input{
+margin-right:20px ;	
+}
+
+button{
+background-color: chartreuse;
+padding:10px 40px;
+font-size: 20px;
+}
+
